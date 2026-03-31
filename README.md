@@ -25,7 +25,7 @@
   Получена комплексная оценка инвестиционной привлекательности проекта и сформирована база для принятия стратегического решения о запуске продукта.
 
 - **Excel-таблица**  
-  https://github.com/TricksSeeker/Portfolio/blob/main/FMCG_financial_model.xlsx
+  https://github.com/TricksSeeker/Portfolio/blob/main/FMCG_financial_model.xlsx (нужно скачать для просмотра)
   
 ---
 
